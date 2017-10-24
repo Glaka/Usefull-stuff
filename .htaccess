@@ -1,6 +1,5 @@
-# Remove the ETag (entity tag) response header field
-Header unset ETag
-FileETag none
+# Create the ETag (entity tag) response header field
+FileETag MTime Size
 ## EXPIRES CACHING ##
 <IfModule mod_expires.c>
 ExpiresActive On

@@ -3,3 +3,9 @@
 - in Command Palette write `Extensions: Show Workspace Recommended Extensions` to see all recommended extensions 
 - install recommended 
 - reload VS code 
+
+p.s.
+Check list of installed extensions 
+`code --list-extensions`
+
+ 
